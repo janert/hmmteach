@@ -16,9 +16,9 @@ to work with Hidden-Markov Models (HMM).
 
 The primary intent was to provide straightforward implementations of the
 required algorithms, to aid understanding and experimentation. Simplicity
-and transparency of the implementation therefore took priority. No attempt 
-has been made to improve the runtime performance of the code, or to deal 
-with floating-point underflow problems. 
+and transparency of the implementation therefore took priority. Little 
+attempt has been made to optimize the runtime performance of the code, 
+and none to deal with floating-point underflow problems. 
 
 The API has been kept simple and practical. The interface is meant to
 clearly outline and reflect the different tasks or "problems" posed
